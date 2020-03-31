@@ -1,11 +1,19 @@
 {
-  "name": "greeter-bot",
+  "name": "quote-bot",
   "version": "1.0.0",
   "description": "Trump",
   "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": "13.12.0"
+  },
   "author": "A Sbeve Cultist",
   "dependencies": {
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
-    "winston": "^3.2.1"
+    "winston": "^3.2.1",
+    "express": "^4.17.1"
   }
 }

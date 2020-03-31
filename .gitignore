@@ -10,3 +10,7 @@ lerna-debug.log*
 # Dependency directories
 node_modules/
 jspm_packages/
+
+# glitch
+.glitch-assets
+shrinkwrap.yaml
