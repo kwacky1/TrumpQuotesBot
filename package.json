@@ -1,0 +1,11 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "Trump",
+  "main": "bot.js",
+  "author": "A Sbeve Cultist",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
